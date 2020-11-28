@@ -1,2 +1,2 @@
-# hello-word
+# hello-world
 Passo a passo aprendendo.
